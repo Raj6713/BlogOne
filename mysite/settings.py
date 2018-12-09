@@ -25,7 +25,7 @@ SECRET_KEY = 'kyn@nts$gb60(ftll5hm+usi4(x^5c%5r%4-0%yqds8lhb6y$1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'rajwaa21.pythonanywhere.com']
 
 
 # Application definition
